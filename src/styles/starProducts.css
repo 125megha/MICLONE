@@ -1,0 +1,12 @@
+.starProduct{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:2.5vmax;
+}
+.starProduct img:hover{
+    box-shadow: 6px 6px 15px 3px  rgba(53,53,53,0.363);
+}
+.startProduct img{
+    transition: all 0.5s;
+}

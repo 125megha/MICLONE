@@ -1,0 +1,6 @@
+.productReview{
+    display:flex;
+    width:90vmax;
+    justify-content:center;
+    margin:auto;
+}
